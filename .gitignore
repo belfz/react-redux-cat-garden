@@ -1,0 +1,4 @@
+node_modules
+dist/bundle.min.js
+dist/*.map
+.idea/
